@@ -1,6 +1,8 @@
 /node_modules
 /uploads
 
+loadtest.json
+*.test.js
 config.json
 .env
 headingNumbering.js
