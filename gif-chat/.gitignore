@@ -1,0 +1,7 @@
+/node_modules
+/uploads
+
+config.json
+.env
+loadtest.json
+*.test.js
